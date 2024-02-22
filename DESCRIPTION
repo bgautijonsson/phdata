@@ -19,3 +19,5 @@ Imports:
 Depends: 
     R (>= 2.10)
 LazyData: true
+URL: https://github.com/bgautijonsson/phdata
+BugReports: https://github.com/bgautijonsson/phdata/issues
