@@ -75,7 +75,7 @@ process_data <- function(filename) {
     ) |>
     group_by(month) |>
     write_dataset(
-      path = "data",
+      path = "database",
       format = "parquet"
     )
 }
